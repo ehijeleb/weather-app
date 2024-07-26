@@ -1,0 +1,17 @@
+{
+    "weather": {
+        "clear": "/images/clear.jpg",
+        "clouds": "/images/clouds.png",
+        "rain": "/images/rain.png",
+        "thunderstorm": "/images/thunderstorm.jpg",
+        "drizzle": "/images/drizzle.png",
+        "snow": "/images/snow.jpg",
+        "mist": "/images/mist.jpg"
+    },
+    "temperature": {
+        "hot": "/images/hot.jpg",
+        "warm": "/images/warm.jpg",
+        "cool": "/images/cool.jpg",
+        "cold": "/images/cold.jpg"
+    }
+}
