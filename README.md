@@ -23,17 +23,20 @@ To run this project locally, follow these steps:
 
 2. **Install Dependencies:**
 
-    ```npm install
+    ```
+    npm install
     ```
 
 3. **Create a .env file in the root directory and add your OpenWeatherMap API key:**
 
-    ```REACT_APP_WEATHER_API_KEY=your_api_key_here
+    ```
+    REACT_APP_WEATHER_API_KEY=your_api_key_here
     ```
 
 4. **Start the development server**
 
-    ```npm start
+    ```
+    npm start
     ```
 
 5. **Open your browser and navigate to:**
@@ -48,6 +51,7 @@ To run this project locally, follow these steps:
 
 ## Project Structure
 
+```
 weather-app/
 ├── public/
 │   ├── images/
@@ -87,6 +91,7 @@ weather-app/
 ├── package.json
 ├── tailwind.config.js
 └── README.md
+```
 
 ## Technologies used
 
