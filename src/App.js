@@ -17,10 +17,10 @@ const App = () => {
   };
 
   return (
-    <div className="bg-background text-foreground min-h-screen flex flex-col items-center justify-center">
+    <div className="bg-white text-black min-h-screen flex flex-col items-center justify-center">
       <h1 className="text-3xl font-bold mb-4">Weather App</h1>
 
-    <div class="bg-card text-card-foreground p-6 rounded-lg shadow-lg w-full max-w-md">
+    <div class="bg-white text-black p-6 rounded-lg shadow-lg w-full max-w-md">
     <label for="location" class="block text-sm font-medium">Enter your location:</label>
     <WeatherInput onFetchWeather={handleFetchWeather} />
     </div>
